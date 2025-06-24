@@ -88,6 +88,9 @@ h6 {
   font-family: var(--heading-font);
 }
 
+.card-body{
+  font-family: var(--heading-font);}
+
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
